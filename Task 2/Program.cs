@@ -4,4 +4,3 @@ for (int i = a; i < 1000; i+=a)
     {
         Console.WriteLine(i);
     }
-Console.WriteLine("Получилось?");
